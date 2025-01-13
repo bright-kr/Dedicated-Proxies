@@ -1,4 +1,4 @@
-# Bright Data Dedicated Proxies
+# Bright Data's Dedicated Proxies
 
 [![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/proxy-types/Dedicated-proxies) 
 
