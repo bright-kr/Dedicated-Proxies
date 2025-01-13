@@ -13,7 +13,7 @@ Experience seamless scraping with Bright Data's [dedicated proxies](https://brig
 
 ## Key Features
 - **Global Coverage**: Dedicated proxies available in [195 countries](https://brightdata.com/locations).
-    - **Poular proxy IP locations**
+- **Poular proxy IP locations**
    - [**United States proxy**](https://brightdata.com/locations/united-states)
    - [**China proxy**](https://brightdata.com/locations/cn)
    - [**UK proxy**](https://brightdata.com/locations/gb)
