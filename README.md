@@ -1,6 +1,6 @@
 # Bright Data's Dedicated Proxies
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/proxy-types/dedicated-proxies) 
+[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/solutions/dedicated-proxies) 
 
 ## Overview
 Experience seamless scraping with Bright Data's [dedicated proxies](https://brightdata.com/solutions/dedicated-proxies), designed to provide precise targeting, unmatched stability, and rapid response times.
