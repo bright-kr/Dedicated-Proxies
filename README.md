@@ -40,6 +40,7 @@ Our dedicated proxies integrate with popular tools and frameworks, including:
 - [**Playwright**](https://brightdata.com/integration/playwright)
 - [**AdsPower**](https://brightdata.com/integration/adspower)
 - [**MultiLogin**](https://brightdata.com/integration/multilogin)
+- [**All proxy integrations**](https://brightdata.com/integration)
 
 ## Use Cases
 Explore how businesses leverage dedicated proxies:
