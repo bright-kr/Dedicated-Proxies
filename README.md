@@ -1,6 +1,6 @@
 # Bright Data의 Dedicated プロキシ
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.co.kr/solutions/dedicated-proxies) 
+[![Promo](https://github.com/bright-kr/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.co.kr/solutions/dedicated-proxies) 
 
 ## 개요
 정밀한 타기팅, 타의 추종을 불허하는 안정성, 빠른 응답 시간을 제공하도록 설계된 Bright Data의 [dedicated プロキシ](https://brightdata.co.kr/solutions/dedicated-proxies)로 원활한 スクレイピング을 경험해 보시기 바랍니다.
